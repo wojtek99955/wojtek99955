@@ -1,4 +1,4 @@
-![background](/bgr.png)
+![background](/main.png)
 <h1 align="center">Hi 👋, I'm <span color="green">Wojtek</span></h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" width=250 src="/photo-about.png">
