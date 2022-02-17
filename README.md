@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Wojtek
 #### I'm a frontend developer 
-![Alt text] github.background.png
+![background](/github.background.png)
 Here I share my latest projects with you.
 
 Skills: REACT / JS / HTML / CSS
