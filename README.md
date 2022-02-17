@@ -1,5 +1,5 @@
-# Hi there 👋, my name is Wojtek
 ![background](/bgr.png)
+# Hi there 👋, my name is Wojtek
 Here I share my latest projects with you.
 
 Skills: REACT / JS / HTML / CSS
