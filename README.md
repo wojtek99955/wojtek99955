@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm <span color="green">Wojtek</span></h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" width=300 src="/about-img.png">
-- 👨‍💻 All of my projects are available at [wojtekk.dev.com](wojtekk.dev.com)
+
+- 👨‍💻 Check out my <a href="https://wojtekk-dev.netlify.app/">portfolio website </a> !
 
 - 💬 Ask me about **react**
 
