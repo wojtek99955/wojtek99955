@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" width=300 src="/about-img.png">
 
-- 👨‍💻 Check out my <a href="https://wojtekk-dev.netlify.app/">portfolio website </a> !
+- 👨‍💻 Check out my <a href="https://wojtekk-dev-portfolio.netlify.app/">portfolio website </a> !
 
 - 💬 Ask me about **react**
 
