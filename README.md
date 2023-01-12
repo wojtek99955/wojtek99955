@@ -3,6 +3,7 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" width=300 src="/about-img.png">
 
+- 🔭 I'm currently working on <a href="https://money-balance.netlify.app/dashboard">Money Balance</a> fullstack app
 - 👉 Try out my latest <a href="https://wojtekk-be-fit.netlify.app/"> fitness app </a> project! 
 - 👨‍💻 Check out my <a href="https://wojtekk-dev-portfolio.netlify.app/">portfolio website </a> !
 
